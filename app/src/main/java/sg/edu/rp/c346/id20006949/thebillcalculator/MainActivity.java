@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
                     eachBillAmount = eachBillAmount + " in cash";
                 }
                 else{
-                    eachBillAmount = eachBillAmount +" via PayNow to 99830239";
+                    eachBillAmount = eachBillAmount +" via PayNow to 912345678";
                 }
                 eachPays.setText(eachBillAmount);
 
